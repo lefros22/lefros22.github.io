@@ -1,14 +1,12 @@
 [
     {
-      "userId": 123,
-      "id": 1212,
-      "title": "karenpoopo",
-      "body": "karen mala"
+      "userName": leos,
+      "pasword": 1212,
+      "tipo": "PAC"
     },
     {
-      "userId": 1001,
-      "id": 2121217,
-      "title": "janersillo",
-      "body": "pip death"
+      "userName": leos3,
+      "pasword": 1212,
+      "tipo": "TER"
     }
   ]
