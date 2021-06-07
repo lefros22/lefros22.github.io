@@ -1,0 +1,12 @@
+[
+    {
+      "userName": leos,
+      "pasword": 1212,
+      "tipo": "PAC"
+    },
+    {
+      "userName": leos3,
+      "pasword": 1212,
+      "tipo": "TER"
+    }
+  ]
